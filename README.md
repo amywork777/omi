@@ -79,6 +79,10 @@ Start speaking, you'll see Real-time transcript on [webhook.site ](https://webho
 [//]: # "- [BLE Protocol](https://docs.omi.me/docs/developer/Protocol/)"
 [//]: # "- [Plugins](https://docs.omi.me/docs/developer/Plugins/)"
 
+## iOS development with Expo
+
+For iOS development with Expo and detailed run instructions, see [README-expo-ios.md](./README-expo-ios.md).
+
 ## Licensing
 
 Omi is available under <a href="https://github.com/BasedHardware/omi/blob/main/LICENSE">MIT License</a>
